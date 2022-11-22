@@ -1,0 +1,18 @@
+{
+  "attributes": [
+    {
+      "attribute": "time",
+      "editMode": {
+        "mandatory": true,
+        "inputType": "dropdown"
+      }
+    },
+    {
+      "attribute": "description",
+      "editMode": {
+        "mandatory": true,
+        "inputType": "text"
+      }
+    }
+  ]
+}
